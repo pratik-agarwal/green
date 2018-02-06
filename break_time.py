@@ -1,3 +1,5 @@
+#open browser with some content at regular interval
+
 import webbrowser
 import time
 
