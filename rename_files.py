@@ -1,3 +1,5 @@
+#rename the files in a folder/remove only the numbers in filename using translate function
+
 import os
 def rename_files():
     file_list = os.listdir(r"D:\Python\prank")
